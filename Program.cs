@@ -172,7 +172,7 @@ namespace SallyBot
                 };
                 Loop.Elapsed += Tick;
 
-                Console.WriteLine($"|{DateTime.Now} | Main loop initialised");
+                Console.WriteLine($"|{DateTime.Now} | Main loop initialized");
 
                 MainGlobal.Client = Client;
 
